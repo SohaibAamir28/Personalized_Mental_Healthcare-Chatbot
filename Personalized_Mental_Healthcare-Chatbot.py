@@ -4,7 +4,7 @@ import speech_recognition as sr
 import streamlit as st
 
 # Set OpenAI API key
-openai.api_key = "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"
+openai.api_key = "API-KEY"
 
 # Load mental health dataset
 mentalhealth = pd.read_csv("C:/Users/Progr/.spyder-py3/AI_Mental_Health.csv")
