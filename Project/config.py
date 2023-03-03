@@ -1,6 +1,6 @@
 
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "OPENAI_KEY"
 GPT3_MODEL_NAME = "text-davinci-002"
 DALLE2_MODEL_NAME = "image-alpha-001"
 CODEX_MODEL_NAME = "davinci-codex"
